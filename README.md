@@ -24,10 +24,11 @@ Hi! My name is Jason Paff. I am a Software Engineer with an incredible passion f
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40" /> </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg" alt="" width="40" height="40" /> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 ...and many others
-
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40" /> </a>
 
 ### My Favorite Project Repos
 * <a href="https://github.com/JasonPaff/TournamentLife">Tournament Life</a> - Poker Results Manager
