@@ -17,5 +17,5 @@ Hi! My name is Jason Paff. I am a Software Engineer with an incredible passion f
 * <a href="https://github.com/JasonPaff/WhatsForDinner">Whats for Dinner?</a> - Connects ingredients in your house to recipes on the web
 * <a href="https://github.com/JasonPaff/EtsyClone">Etsy Clone</a> - ECommerce website mimicing Etsy
 
-![Jason's Language Stats]<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonpaff&layout=compact"/>
+![Jason's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonpaff&layout=compact")
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonpaff&show_icons=true&theme=dark)
