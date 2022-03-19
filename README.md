@@ -1,5 +1,4 @@
 ## Hello, 
-I'm Jason Paff a Software Engineer
 Hi! My name is Jason Paff. I am a Software Engineer with an incredible passion for the industry. I started coding as a hobby by making small pc games and that hobby grew into a full-blown obsession. After a few years of writing software as a serious hobby I was able to finally take the leap and make it a career. I joined the DigitalCrafts Full Stack Web Developer bootcamp in 2021 and completed the intensive program in April 2022. I'm excited to finally begin my journey into the world of professional software development!
 
 ### Get In Touch
