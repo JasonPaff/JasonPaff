@@ -1,5 +1,5 @@
 ## Hello, 
-Hi! My name is Jason Paff. I am a Software Engineer with an incredible passion for the industry. I started coding as a hobby by making small pc games and that hobby grew into a full-blown obsession. After a few years of writing software as a serious hobby I was able to finally take the leap and make it a career. I joined the DigitalCrafts Full Stack Web Developer bootcamp in 2021 and completed the intensive program in April 2022. I'm excited to finally begin my journey into the world of professional software development!
+Hi! My name is Jason Paff. I am a Software Engineer with an incredible passion for the industry. I started coding as a hobby by making some software to help me with tracking my online poker results and that hobby grew into a full-blown obsession. After a few years of writing software as a serious hobby I was able to finally take the leap and make it a career. I joined the DigitalCrafts Full Stack Web Developer bootcamp in 2021 and completed the intensive program in April 2022. I'm excited to finally begin my journey into the world of professional software development!
 
 ### Get In Touch
 <a href="mailto:jasonpaff@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
